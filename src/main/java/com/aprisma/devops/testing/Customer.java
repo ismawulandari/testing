@@ -16,5 +16,9 @@ public class Customer {
 		this.address = address;
 	}
 	
+	public int sum(int a, int b){
+		int hasil = a+b;
+		return hasil;
+	}
 	
 }
